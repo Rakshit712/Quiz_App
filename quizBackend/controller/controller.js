@@ -1,6 +1,4 @@
 
-
-
 import questModel from "../model/ques.js";
 import resultModel from "../model/result.js";
 import userModel from "../model/user.js";
